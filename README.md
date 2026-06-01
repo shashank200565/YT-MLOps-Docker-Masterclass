@@ -1,0 +1,2 @@
+# YT-MLOps-Docker-Masterclass
+This repo is to implement Docker with the help of a project demo
